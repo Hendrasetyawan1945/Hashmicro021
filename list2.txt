@@ -1,3 +1,6 @@
 list bumbu
 1.sayur
 2.bawang
+3.cabe
+4.timun
+5.lengkuas
