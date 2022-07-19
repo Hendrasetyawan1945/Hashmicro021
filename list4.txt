@@ -1,4 +1,4 @@
 list pekerjaan
 1.rapikan tempat tidur
-2.cuci muka
+
 3.sholat
