@@ -1,0 +1,4 @@
+list bumbu
+1.sayur
+2.bawang
+3.cabe
