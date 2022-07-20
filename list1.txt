@@ -1,3 +1,4 @@
 list nama kucing
 1.black
 3.mochi
+4.hitam
