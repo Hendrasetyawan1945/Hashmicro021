@@ -1,2 +1,3 @@
 pakan kucing
 -wiskas
+-bold
