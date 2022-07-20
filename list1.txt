@@ -3,3 +3,4 @@ list nama kucing
 3.mochi
 4.hitam
 5.putih
+6.oren
